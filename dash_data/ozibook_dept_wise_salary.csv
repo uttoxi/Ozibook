@@ -1,0 +1,37 @@
+Department,Position,Num_of_employees
+Executives,Founder - CVO,1
+Executives,CEO,1
+Executives,Co-founder - COO,1
+Developers,Head Of Engineering ,1
+Developers,Backend Developer,2
+Developers,Frontend Developer,2
+Developers,QA Testers (1 QA for 4 developers),1
+Developers,Fresher - Team leader ,2
+Developers,Fresher(2 in each team),4
+Developers,Interns,8
+Finance,Manager,1
+Finance,Junior Accountant,1
+Finance,Junior Finance Associate,1
+BA,Manager,1
+BA,Fresher - Team leader,2
+BA,Interns,8
+BA,Fresher - Team leader (RA),2
+BA,Interns,8
+BA,Fresher - Team Leader (DA),2
+BA,Interns,8
+BA,Contingency team,5
+UI/UX,Manager,1
+UI/UX,Fresher - Team leader,2
+UI/UX,Interns,8
+HR,HR manager,1
+HR,Recruiter,3
+Creative,Manager,1
+Creative,Video editor,1
+Creative,Video editor(Interns),5
+Creative,Contingency team(Video Editing),3
+Creative,Content designer,1
+Creative,Content designer(Intern),5
+Creative,Contingency team(Content Designing),8
+Creative,Content writer,1
+Creative,Content writer(Intern),5
+Creative,Contingency team(Content writing),4
